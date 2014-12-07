@@ -1,4 +1,4 @@
-DashVis
+EasyViz
 =======
 
 Pretty dashboards shouldn't be difficult!
